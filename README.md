@@ -1,6 +1,6 @@
 # JDDF Homebrew Tap
 
-This repository is a ("tap")[https://docs.brew.sh/Taps] for
+This repository is a ["tap"](https://docs.brew.sh/Taps) for
 [Homebrew](https://brew.sh/), a package manager.
 
 You can use this tap to quickly install JDDF tools, assuming you already have
